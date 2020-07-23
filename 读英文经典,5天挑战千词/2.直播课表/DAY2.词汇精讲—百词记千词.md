@@ -25,6 +25,7 @@ precious adj.珍贵的,宝贵的
 prize n.奖金,奖品
 praise vt.称赞,表扬 n.称赞,赞美,
 
+读数字,懂单词
 ---------------
 
 - one num.一,一个    reunion n.重聚
@@ -108,9 +109,44 @@ y 名词后缀
 - The testimony given by him is **dubious**   他提供的证词是可疑的
 - I was **dubious** about the plan 我对这个计划持怀疑态度
 
+----------------
+> three 三;三个
+
+- multiple adj. 多重的；多样的；许多的 n. 倍数；[电] 并联
+- manifold 多种多样的
+
+- thrive vi.繁荣,兴旺 (中国人讲:三生万物,三=多)
+- Today her company continues to thrive 今天，她的公司继续蓬勃发展(繁荣兴旺)
+- flourish v. 繁荣，茂盛,茁壮成长
+    - flower 花,开花结果,茂盛
+- tribe n.部落;族 (三种人)   
+    - be (am is are) 是
+        - being 生物
+        - human being 人类
+- tribute n.贡品,致敬,悼念
+    - tribe + ute 动名词后缀(部落之间相互送礼)
+- contribute vt&vi. 贡献;出力
+    - con => com => come 来共同一起
+- distribute 分配
+    - dis 反方向
+- attribute vt. 归属；把……归于 n.属性()
+
+
+#### 二,品饮食,串单词
+
+- restaurant n.餐厅;饭店 (重新填饱肚子的地方)
+    - re 重新
+    - staur
+    - rant
+
+- I want jump off a building 我想跳楼
+
+- 东北人说: 扔 reng leng
 
 
 ### 精通词汇的好处
+
+
 
 ### 二. 区分场景,体现语言素养(翻译)
 
