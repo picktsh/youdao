@@ -1,5 +1,20 @@
 ## DAY2.词汇精讲—百词记千词.md
 
+> 重审基础词汇,学会借力背单词
+
+1. He is working in a rock band  他在一个乐队工作  
+band n.乐队  
+2. The tress ware bending in the wind 树被风吹弯了  
+bend vt&vi.弯曲
+3.Love binds them together 爱情将他们捆绑在一起  
+bing vt.绑
+4. I have a special bond with him 我和他之间有一条特殊的纽带(关系)
+bond n.纽带
+5. They made bundles of money 他们赚了很多钱
+bundle n.捆
+
+
+
 
 ### 精通词汇的好处
 
@@ -22,3 +37,5 @@ host 主人
 - remarkable 极好的,卓越的;值得注意的 "可圈可点的"
 
 
+delicate
+杨亮讲英文
