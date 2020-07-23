@@ -13,7 +13,17 @@ bond n.纽带
 5. They made bundles of money 他们赚了很多钱
 bundle n.捆
 
+- band n.乐队 :捆绑式的一个团队
+- bend vt&vi.弯曲 :给弓箭绑上线变得弯曲
+- bundle 捆
+- bound adj.一定会;受约束的,有义务的;被...所限制的
 
+#### 英语单词的读音和**拼写**
+
+price n.价格;价值
+precious adj.珍贵的,宝贵的
+prize n.奖金,奖品
+praise vt.称赞,表扬 n.称赞,赞美,
 
 
 ### 精通词汇的好处
